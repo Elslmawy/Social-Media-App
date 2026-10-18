@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  ![Route Posts Banner](public/route-logo.png)
 
   ### A sleek, modern, pixel-perfect social media web application built with **React 19**, **Vite**, and **Tailwind CSS v4**.
 
