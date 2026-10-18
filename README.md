@@ -185,7 +185,3 @@ route-posts/
 - Live Application: [https://elslmawy.github.io/Social-Media-App/#/auth](https://elslmawy.github.io/Social-Media-App/#/auth)
 
 ---
-
-## 📄 License
-
-This project was developed for educational and portfolio purposes as part of the Route Academy React track.
