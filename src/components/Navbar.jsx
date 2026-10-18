@@ -45,7 +45,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <NavLink to="/feed" className="flex items-center gap-2.5 shrink-0 group">
           <img
-            src="/route-logo.png"
+            src="./route-logo.png"
             alt="Route Logo"
             className="w-8 h-8 rounded-lg object-contain shadow-xs border border-blue-900/10 group-hover:scale-105 transition-transform"
           />

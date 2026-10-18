@@ -123,7 +123,7 @@ export default function Auth() {
     <div className="min-h-screen bg-[#f0f2f5] flex flex-col justify-center items-center py-12 px-4 sm:px-6 lg:px-8">
       <div className="flex items-center gap-3 mb-8">
         <img
-          src="/route-logo.png"
+          src="./route-logo.png"
           alt="Route Logo"
           className="w-11 h-11 rounded-2xl object-contain shadow-md border border-blue-900/10"
         />
