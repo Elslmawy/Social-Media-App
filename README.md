@@ -182,10 +182,6 @@ route-posts/
 
 ---
 
-## 👨‍💻 Author
-
-**Muhamed Elslmawy**
-- GitHub: [@Elslmawy](https://github.com/Elslmawy)
 - Live Application: [https://elslmawy.github.io/Social-Media-App/#/auth](https://elslmawy.github.io/Social-Media-App/#/auth)
 
 ---
